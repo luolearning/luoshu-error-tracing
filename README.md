@@ -10,6 +10,8 @@ where internal values are assigned addresses that can be directly decoded rather
 ---
 
 Code for the paper: *From Search to Computation: Structured Error Tracing via Recursive Luoshu Localization*.
+For the full Luoshu addressing system (V0.3), see:
+https://github.com/luolearning/luoshu-kit-transformers
 
 ## Main files
 
